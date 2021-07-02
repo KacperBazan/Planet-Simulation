@@ -8,7 +8,8 @@
     </blockquote>
 </div>
 
-![alt text](https://github.com/KacperBazan/Planet-Simulation/blob/main/img/planet.png)
+![alt text](https://github.com/KacperBazan/Planet-Simulation/blob/main/img/planet.jpg)
 
 ## Installation
+I am still learning CMAKE, so for the time being, please build this using Visual Studio 2019.
 1. Cry
