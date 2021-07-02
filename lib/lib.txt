@@ -1,0 +1,15 @@
+Note: Libraries must be included and linked properly in the project settings.
+
+Libraries go into this folder. The structure is shown below:
+
+lib	
+  > library_1
+      > include
+      > bin
+      > lib
+  > library_2
+      > include
+      > bin
+      > lib
+      > example
+  > library_3
