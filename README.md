@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Double Planet Simulation</h1>
+  <h1>Planet Simulation</h1>
     <blockquote>
         <p><i>Round and round and round...</i></p>
         <p><b>Simulating orbital mechanics with planets using C++.</b></p>
