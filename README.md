@@ -18,11 +18,11 @@ If you just want the executable, navigate to the releases and unzip the ```.rar`
 I am still learning CMAKE, so for the time being, please build this using Visual Studio 2019.
 1. Download this repository and unzip it. The root folder will be the folder with ```-main``` appended to the repository name.
 2. Optional: You could delete the ```img``` folder, ```.gitattributes```, ```.gitignore```, and ```README.md``` if wanted.
-3. Open Visual Studio 2019 and select **Continue without code →** under the opening project options.
+3. Open Visual Studio 2019 and select **Continue without code** under the opening project options.
 4. Navigate to the Menu. *File* → *New* → *Project from existing code*. Select the **Visual C++** option.
 5. For *Project file location:*, select the root folder you downloaded.
 6. For *Project name:*, name the project whatever you want. Select **Next**.
-7. Select **Use Visual Studio**, and leave all settings. Select **Next*.
+7. Select **Use Visual Studio**, and leave all settings. Select **Next**.
 8. We will be including include and library paths later. Select **Finish**.
 9. Navigate to the Solution Explorer on the left and open the ```main.cpp``` file located in ```src```.
 10. Navigate to the Menu. *Project* → *[NAME HERE] Properties*.
