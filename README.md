@@ -25,7 +25,7 @@ I am still learning CMAKE, so for the time being, please build this using Visual
 7. Select **Use Visual Studio**, and leave all settings. Select **Next**.
 8. We will be including include and library paths later. Select **Finish**.
 9. Navigate to the Solution Explorer on the left and open the ```main.cpp``` file located in ```src```.
-10. Navigate to the Menu. *Project* → *[NAME HERE] Properties*.
+10. Navigate to the Menu. *Project* → *[PROJECT NAME] Properties*.
 11. Change the *Configuration* tab to **All Configurations**
 12. Under the *C/C++* tab add the following lines to the *Additional Include Directories* section by clicking on the three dots at the end of the selection: ```$(SolutionDir)include```, ```$(SolutionDir)lib\SFML\include```.
 13. Under the *Linker* tab, navigate to the *General* sub tab. Add the following line to the *Additional Library Dependencies* section by clicking on the three dots at the end of the selection: ```$(SolutionDir)lib\SFML\lib```.
