@@ -10,11 +10,11 @@
 
 ![alt text](https://github.com/KacperBazan/Planet-Simulation/blob/main/img/planet.jpg)
 
-## Installation
-# Raw Executable
+# Installation
+## Raw Executable
 If you just want the executable, navigate to the releases and unzip the folder. You should have both the ```.exe``` file that will run the project and the ```.dll``` files that are required to properly link to the executable.
 
-# Building
+## Building
 I am still learning CMAKE, so for the time being, please build this using Visual Studio 2019.
 1. Download this repository and unzip it. The root folder will be the folder with ```-main``` appended to the repository name.
 2. Optional: You could delete the ```img``` folder, ```.gitattributes```, ```.gitignore```, and ```README.md``` if wanted.
