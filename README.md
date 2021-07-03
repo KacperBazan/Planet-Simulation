@@ -12,7 +12,7 @@
 
 # Installation
 ## Raw Executable
-If you just want the executable, navigate to the releases and unzip the folder. You should have both the ```.exe``` file that will run the project and the ```.dll``` files that are required to properly link to the executable.
+If you just want the executable, navigate to the releases and unzip the ```.rar``` file. You should have both the ```.exe``` file that will run the project and the ```.dll``` files that are required to properly link to the executable.
 
 ## Building
 I am still learning CMAKE, so for the time being, please build this using Visual Studio 2019.
